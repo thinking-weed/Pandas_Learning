@@ -5,3 +5,5 @@
 https://qiita.com/thinking-weed/items/4cb9afa403b1373e2bc3
 
 
+### データ分析学習備忘録03 pandasによるデータの基本操作チートシート①
+https://qiita.com/thinking-weed/private/77f0a12ffd692e164e2b
